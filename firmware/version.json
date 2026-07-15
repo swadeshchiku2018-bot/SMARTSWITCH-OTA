@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "https://github.com/swadeshchiku2018-bot/SMARTSWITCH-OTA/releases/download/v1.0.0/firmware.bin"
+  "firmware": "firmware_v1.0.0.bin",
+  "size": 0,
+  "md5": ""
 }
-
