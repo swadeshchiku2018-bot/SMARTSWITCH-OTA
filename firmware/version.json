@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "4.0.0",
   "firmware": "https://raw.githubusercontent.com/swadeshchiku2018-bot/SMARTSWITCH-OTA/refs/heads/main/firmware/firmware_v1.0.0.bin",
-  "size": 508000,
+  "size": 508kb,
   "md5": ""
 }
